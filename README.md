@@ -1,5 +1,4 @@
-# book-reviews
-A collection of Books and their reviews from me
+# A collection of Books and their reviews for you.
 
 Check the individual files for the month.
 
